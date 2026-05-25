@@ -25,7 +25,7 @@ Below is the required video demonstration showing the full workflow of the app:
 3. **Interaction:** Clicking the date field, opening the calendar, and selecting a date.
 4. **Completion:** Filling out all fields correctly and successfully submitting the form.
 
-![App Demo] https://github.com/user-attachments/assets/7bf9cb9d-abdd-4c66-9db3-9249599586e3
+![App Demo](https://github.com/user-attachments/assets/7bf9cb9d-abdd-4c66-9db3-9249599586e3)
 
 
 
